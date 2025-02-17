@@ -8,4 +8,4 @@ mixed reality Fun Rock Paper scissor game using open cv and mediapipes
 
 ## Author
 
-DETHMANGKONE DIMANIVONG (pathana school) 2024 - 2025 mlglaos7518@gmail.com
+DETHMANGKONE DIMANIVONG (Pathana School) 2024 - 2025 mlglaos7518@gmail.com
