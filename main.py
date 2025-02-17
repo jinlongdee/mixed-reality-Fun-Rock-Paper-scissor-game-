@@ -16,7 +16,7 @@ hands = mp_hands.Hands(
 )
 mp_draw = mp.solutions.drawing_utils
 
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 
 pygame.mixer.init()
 win_sound = pygame.mixer.Sound("sounds/win_sound.mp3")
